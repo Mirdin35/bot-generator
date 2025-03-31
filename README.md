@@ -61,9 +61,3 @@ The application will be available at `http://localhost:8501`.
 - `POST /process_knowledge_base` - Processes uploaded knowledge base files
 - `POST /process_voice_clone` - Clones voice samples
 - `POST /create_bot` - Generates a new Telegram bot
-
-## License
-MIT License
-
-## Author
-Developed by [Your Name].
